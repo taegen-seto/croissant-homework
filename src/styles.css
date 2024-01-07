@@ -28,6 +28,12 @@ a {
   max-width: 100%;
   border-radius: 6px;
 }
+.contact-img {
+  display: block;
+  margin: 0 auto;
+  max-width: 25%;
+  border-radius: 6px;
+}
 .pages {
   text-align: center;
   margin: 30px;
